@@ -19,19 +19,19 @@ This project implements a dynamic notice board using the MAX7219 LED matrix disp
 
 ### BASE MODEL (ESP8266) 
 
-| Device                           | Description                                      |
-| -------------------------------- | -------------------------------------------------|
-| MCU                              | Nodemcu ESP8266 (4MB FLASH) V 1.1                |
-| Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)            |
-| Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v|
+| Device                           | Description                                         |
+| -------------------------------- | ----------------------------------------------------|
+| MCU                              | Nodemcu ESP8266 (4MB FLASH) V 1.1                   |
+| Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)               |
+| Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v-5A|
 
 ### MAIN MODEL (ESP-32)
 
-| Device                           | Description                                      |
-| -------------------------------- | -------------------------------------------------|
-| MCU                              | ESP32 / ESP32-S / ESP32-WROOM-DA                 |
-| Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)            |
-| Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v|
+| Device                           | Description                                         |
+| -------------------------------- | ----------------------------------------------------|
+| MCU                              | ESP32 / ESP32-S / ESP32-WROOM-DA                    |
+| Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)               |
+| Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v   |
 
 ## Web Interface
 
