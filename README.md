@@ -1,4 +1,4 @@
-# MAX7219 Dynamic Notice Board with ESP8266
+# MAX7219 Dynamic Notice Board with ESP - 8266 / 32
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
