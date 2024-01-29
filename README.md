@@ -17,7 +17,7 @@ This project implements a dynamic notice board using the MAX7219 LED matrix disp
 
 ## Hardware used
 
-# BASE MODEL (ESP8266) 
+### BASE MODEL (ESP8266) 
 
 | Device                           | Description                                      |
 | -------------------------------- | -------------------------------------------------|
@@ -25,7 +25,7 @@ This project implements a dynamic notice board using the MAX7219 LED matrix disp
 | Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)            |
 | Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v|
 
-# MAIN MODEL (ESP-32)
+### MAIN MODEL (ESP-32)
 
 ## Web Interface
 
