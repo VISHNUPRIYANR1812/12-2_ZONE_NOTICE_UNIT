@@ -27,6 +27,12 @@ This project implements a dynamic notice board using the MAX7219 LED matrix disp
 
 ### MAIN MODEL (ESP-32)
 
+| Device                           | Description                                      |
+| -------------------------------- | -------------------------------------------------|
+| MCU                              | ESP32 / ESP32-S / ESP32-WROOM-DA                 |
+| Display unit                     | MAX719 :: FC-16 8*8 matrix (24 units)            |
+| Power unit                       | LM2596 / 4R7 Based DC-DC Buck convertor 12.5 - 5v|
+
 ## Web Interface
 
 The notice board can be accessed and configured through a web interface. Users can update the message, adjust the scroll speed, and set the brightness level using a simple form.
